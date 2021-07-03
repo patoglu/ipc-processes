@@ -1,4 +1,11 @@
-# ipc-processes
+# Usage:
+Run as: `./program -n <nurse_count> -v <vaccinator_count> -c <citizen_count> -b <buffer_size> -t <shot_count> -i <buffer_name>`
+
+Example run: `./program -n 5 -v 4 -c 50 -b 599 -t 5 -i vaccine_storage` 
+
+You can the vaccine_storage file [here](https://github.com/patoglu/multithreaded-client-server/blob/main/test/database.csv)
+
+Example run:
 Problem Definition
 ==================
 
