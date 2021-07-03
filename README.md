@@ -5,7 +5,7 @@ Example run: `./program -n 5 -v 4 -c 50 -b 599 -t 5 -i vaccine_storage`
 
 You can find the vaccine_storage file [here](https://github.com/patoglu/ipc-processes/blob/main/test/vaccine_storage)
 
-Example run:
+
 Problem Definition
 ==================
 
