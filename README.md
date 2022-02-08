@@ -154,7 +154,7 @@ Program flow
 
     -   ***Vaccinator processes return their EXIT\_STATUS to parent:***
         I think this would be the most elegant and simple solution. But
-        exit statuses are limited to 256 bits. So if a vaccinator has
+        exit statuses are limited to 8 bits. So if a vaccinator has
         applied more than 255 vaccines, then that would be a problem so
         I didn’t choose this method.
 
