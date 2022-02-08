@@ -27,7 +27,7 @@ Program flow
             parse_args(int argc, char**argv, int *n, int *v, int *c, int *b, int *t, char *input_file_path);
                 
 
--   ***Creating and mapping the POSIX sharing memory:*** To open and map
+-   ***Creating and mapping the POSIX shared memory:*** To open and map
     a shared memory we have to follow these steps:
 
     -           /*Open shared memory object.*/
