@@ -375,7 +375,7 @@ Program flow
     After vaccinator finishes its job it will send these numbers to
     parent with the help of an *unnamed pipe*.
 
--   ***Citizens:***Each citizen will get vaccinated two by two t times.
+-   ***Citizens:*** Each citizen will get vaccinated two by two t times.
     So citizens lifetime is limited to t iterations. Each citizen waits
     for a wake up call here. Remember the consumers were posted
     *bring\_citizen*. Now each citizen waits for that post to break the
